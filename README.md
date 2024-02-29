@@ -1,2 +1,2 @@
 # Value Addeded Course in Machine Learning 
-This repository contains some files that implies about the basics that I learned in my 5 days Value Added Course (VAC) that was conducted in my college.
+This repository contains some files that convey the basics I learned during my 5-day Value Added Course (VAC) conducted at my college.
